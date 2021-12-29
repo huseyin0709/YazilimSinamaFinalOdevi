@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251235210723",
+    "project_id": "yazilimsinama",
+    "storage_bucket": "yazilimsinama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251235210723:android:c45a4786b8b9f3c133bcd6",
+        "android_client_info": {
+          "package_name": "com.huso.yazilimsinama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251235210723-b81ds04r4i276bjpftbinf1d13icq19k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZT9KnLqQK-EwHvImgLf4TgdRri38kBMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251235210723-b81ds04r4i276bjpftbinf1d13icq19k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
